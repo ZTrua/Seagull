@@ -1,4 +1,4 @@
 all: seag
 
-seag: sea.cpp 
-	clang++  sea.cpp -o  sea
+seag: longNum.cpp 
+	clang++  longNum.cpp -o  num
