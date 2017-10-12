@@ -8,7 +8,7 @@ using namespace std;
 //number of significant figures
 
 
-int main()
+int main(int argc, char* argv[])
 {
 	bitset<8> y = 10;
 	int x = 1; 
